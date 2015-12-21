@@ -1,2 +1,0 @@
-# testRepo
-For test proposals
